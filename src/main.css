@@ -1,0 +1,18 @@
+.head{
+  
+    display: flex;
+    flex-flow:wrap;
+
+    
+}
+
+.image{
+    height: 260px;
+    width: 260px;
+}
+
+.filter{
+    display: flex;
+    flex-flow:wrap;
+
+}

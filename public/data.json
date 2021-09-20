@@ -1,0 +1,78 @@
+[
+    {
+        "name":"Diamond1",
+        "shape":"Round",
+        "cut":"Good",
+        "color":"D",
+        "carat":2,
+        "clarity":"S11",
+        "Price":5000,
+        "image":"https://5.imimg.com/data5/SELLER/Default/2020/9/QN/VL/EI/114047283/natural-diamond-500x500.png"
+      
+    
+
+    },
+    {
+        "name":"Diamond2",
+        "shape":"Princess",
+        "cut":"Very Good",
+        "color":"L",
+        "carat":6,
+        "clarity":"VS2",
+        "Price":6000,
+        "image":"https://5.imimg.com/data5/SELLER/Default/2020/9/EA/VW/MO/2614575/princess-shape-diamond-500x500.jpeg"
+    },
+    {
+        "name":"Diamond3",
+        "shape":"Cushion",
+        "cut":"Excellent",
+        "color":"M",
+        "carat":4,
+        "clarity":"s11",
+        "Price":50007,
+        "image":"https://www.cleanorigin.com/media/Images/cushion_shaped_lab_grown_diamond.jpg"
+    },
+    {
+        "name":"Diamond4",
+        "shape":"Emerald",
+        "cut":"VeryGood",
+        "color":"F",
+        "carat":12,
+        "clarity":"S12",
+        "Price":700000,
+        "image":"https://5.imimg.com/data5/RU/YZ/IL/SELLER-30544557/1-500x500.jpg"
+    },
+    {
+        "name":"Diamond5",
+        "shape":"Oval",
+        "cut":"Good",
+        "color":"D",
+        "carat":4,
+        "clarity":"FL",
+        "Price":5000,
+        "image":"https://5.imimg.com/data5/GY/MH/MY-62076306/oval-shape-diamond-500x500.jpg"
+    },
+    {
+        "name":"Diamond6",
+        "shape":"Radiant",
+        "cut":"Good",
+        "color":"J",
+        "carat":5,
+        "clarity":"F",
+        "Price":50000,
+        "image":"https://5.imimg.com/data5/SELLER/Default/2020/10/FX/EL/BL/104484770/radiant-cut-diamond-500x500.jpg"
+    },
+    {
+        "name":"Diamond7",
+        "shape":"Heart",
+        "cut":"Excellent",
+        "color":"K",
+        "carat":23,
+        "clarity":"VVS2",
+        "Price":40000,
+        "image":"https://blog.brilliance.com/wp-content/uploads/2016/02/diamond-heart1.jpg"
+    }
+
+  
+]
+
